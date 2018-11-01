@@ -22,3 +22,6 @@ yarn-error.log*
 
 # data https://www.kaggle.com/c/titanic/data
 titanic-data-6.csv
+
+# notebook checkpoints
+.ipynb_checkpoints
